@@ -17,6 +17,9 @@ python3 brei.py
 If you have problems running the program see the following urls:
 
 https://youtu.be/335_2YjKxbE
+<br>
 https://forum.beeminder.com/t/automation-program-to-incrementally-increase-a-goal-rate/6354
+<br>
 https://docs.python.org/3/installing/index.html
+<br>
 https://pyautogui.readthedocs.io/en/latest/install.html
